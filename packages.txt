@@ -766,3 +766,4 @@ zita-alsa-pcmi
 zita-resampler
 zlib
 zvbi
+pulseaudio-ctl
