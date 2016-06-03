@@ -6,4 +6,8 @@ To fix sound and auto-detect headphone usage, I used:
 
 
 To make line numbers appear when using "sudo emacs", I copied ~/.spacemacs into /root to give it privileges (I think) 
+
 You must install spacemacs before inserting new spacemacs file
+
+Install python-powerline-git on AUR and use this to get it to work with terminal prompt 
+  - https://powerline.readthedocs.io/en/latest/usage/shell-prompts.html
