@@ -176,5 +176,6 @@ bindsym $mod+t exec thunderbird # open thunderbird
 bindsym $mod+i exec emacsclient -nc --alternate-editor='' ~/.config/i3/config # open i3 config in emacs
 bindsym $mod+o exec google-chrome-stable aspen.maine207.org/aspen/logon.do  # open google chrome with grade tabs
 bindsym $mod+Shift+s exec STEAM_RUNTIME=0 steam # opens steam
-bindsym F10 exec pulseaudio-ctl up 10
-bindsym F9  exec pulseaudio-ctl down 10
+bindsym F10 exec pulseaudio-ctl up 10 # audio up
+bindsym F9  exec pulseaudio-ctl down 10 # audio down
+bindsym $mod+c exec emacsclient -nc --alternate-editor='' # opens emacs 
