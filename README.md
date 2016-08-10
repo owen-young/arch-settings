@@ -13,3 +13,6 @@ Install python-powerline-git on AUR and use this to get it to work with terminal
   - https://powerline.readthedocs.io/en/latest/usage/shell-prompts.html
 
 Change font to terminus in i3 settings and elsewhere. Nimbus mono is no longer supported for some reason. Dmenu Extended has also been installed to support aliasing. 
+
+
+THE COMMITS SAY PY3BAR BUT IT IS REALLY PY3STATUS, SORRY GITHUB IS HARD
