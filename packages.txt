@@ -757,6 +757,7 @@ which
 wildmidi
 wireless_tools
 wmctrl
+wpa_actiond
 wpa_supplicant
 wv
 x265
