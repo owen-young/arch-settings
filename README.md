@@ -18,3 +18,5 @@ Change font to terminus in i3 settings and elsewhere. Nimbus mono is no longer s
 THE COMMITS SAY PY3BAR BUT IT IS REALLY PY3STATUS, SORRY GITHUB IS HARD
 
 Make sure you add infinality-bundle fonts to the pacman repository or else the fonts won't work correctly.
+
+I stopped using NetworkManager and I use netctl-auto. wpa_actiond is required for that to work.
